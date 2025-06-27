@@ -1,4 +1,4 @@
-Antonio Mazilu is a dedicated researcher and technology professional with expertise in Information and Communication Technologies, currently completing his B.Sc. at the University of the Peloponnese. With a strong foundation in AI, cybersecurity, blockchain, and unmanned aerial systems, he combines technical proficiency with innovative problem-solving to advance cutting-edge solutions.
+Antonio Mazilu is a dedicated researcher and technology professional with expertise in Information and Communication Technologies. With a strong foundation in AI, cybersecurity, blockchain, and unmanned aerial systems, he combines technical proficiency with innovative problem-solving to advance cutting-edge solutions.
 
 His research has been published in peer-reviewed venues, addressing critical challenges in IoT forensics, blockchain-based maritime security, and autonomous UAV swarm management. His technical skill set encompasses programming (Java, Python, C, Go), cloud computing (Azure, AWS), and emerging technologies such as distributed ledger systems and embedded drone autonomy.
 
